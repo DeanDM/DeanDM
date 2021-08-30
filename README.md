@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @DeanDM, Belgian living in Amsterdam with NZ'er
+- 👀 I’m interested in cool people to build cool stuff with
