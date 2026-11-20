@@ -1,8 +1,8 @@
 # Hi, I'm Dean 👋
 
-Belgian in Amsterdam (and an honorary NZ'er) — soon to be in **Wellington 🇳🇿**.
+Belgian in Wellington 🇳🇿 — made the move and loving it.
 
-Infrastructure / platform engineer with **12+ years** across fintech and cloud. I currently keep the lights on and the deploys fast at **[Plaid](https://plaid.com)**. I like turning gnarly, manual infra into boring, automated infra — and finding cool people to build cool stuff with.
+Infrastructure / platform engineer with **12+ years** across fintech and cloud. Most recently at **[Plaid](https://plaid.com)**, where I kept the lights on and the deploys fast. I like turning gnarly, manual infra into boring, automated infra — and finding cool people to build cool stuff with.
 
 ---
 
@@ -18,7 +18,7 @@ Infrastructure / platform engineer with **12+ years** across fintech and cloud. 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 - **Cloud & infra:** AWS, Kubernetes (EKS + self-hosted), Terraform, GitOps / ArgoCD, Karpenter
-- **Platform & CI/CD:** Buildkite, internal deploy tooling, zero-touch deployment
+- **Platform & CI/CD:** Buildkite, GitLab CI, internal deploy tooling, zero-touch deployment
 - **Observability:** Prometheus, Grafana, Chronosphere
 - **Languages:** Go, C#, SQL, a bit of Python
 
@@ -26,8 +26,8 @@ Infrastructure / platform engineer with **12+ years** across fintech and cloud. 
 
 ### 🌏 Currently
 
-- 📍 Amsterdam → **relocating to Wellington, NZ** (late 2026)
-- ✨ Open to **remote / NZ-based infrastructure & platform roles** — happy to chat
+- 📍 Wellington, New Zealand
+- ✨ Open to **remote infra / platform roles** — NZ-based or global — happy to chat
 
 ### 📫 Find me
 
